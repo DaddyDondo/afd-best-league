@@ -1,15 +1,29 @@
 
 body {
-    background-color: black;
-    color: lime;
-    font-family: 'Courier New', monospace;
-    text-align: center;
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f4f4f4;
+  color: #333;
 }
-a {
-    color: cyan;
-    text-decoration: none;
-    margin: 0 10px;
+header {
+  background: #d32f2f;
+  padding: 20px;
+  text-align: center;
+  color: #fff;
 }
-a:hover {
-    text-decoration: underline;
+.logo {
+  width: 60px;
+  vertical-align: middle;
+}
+nav {
+  margin-top: 10px;
+}
+nav a {
+  margin: 0 15px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+main {
+  padding: 20px;
 }
