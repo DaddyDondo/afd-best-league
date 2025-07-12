@@ -1,15 +1,1 @@
-
-body {
-    background-color: black;
-    color: lime;
-    font-family: 'Courier New', monospace;
-    text-align: center;
-}
-a {
-    color: cyan;
-    text-decoration: none;
-    margin: 0 10px;
-}
-a:hover {
-    text-decoration: underline;
-}
+body { font-family: Arial, sans-serif; background-color: #f9f9f9; }
